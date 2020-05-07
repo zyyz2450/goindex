@@ -1,4 +1,4 @@
-![GoIndex](https://raw.githubusercontent.com/donwa/goindex/master/themes/logo.png)  
+![GoIndex](https://raw.githubusercontent.com/zyyz2450/goindex/master/themes/logo.png)  
 
 GoIndex  
 ====  
@@ -16,7 +16,7 @@ classic:
 1、在本地安装 rclone   
 2、按照 https://rclone.org/drive/ 流程进行授权。  
 3、执行 rclone config file 查看 rclone.conf 路径。找到root_folder_id和refresh_token记录下来。  
-4、下载 https://github.com/donwa/goindex 中的 index.js  并填入 root 和 refresh_token  
+4、下载 https://github.com/zyyz2450/goindex 中的 index.js  并填入 root 和 refresh_token  
 5、复制代码 到 CloudFlare 部署。  
 
 ## 安装部署方案2  
